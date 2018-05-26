@@ -30,4 +30,5 @@ public class SecondAct extends BaseActivity {
       tvSecond.setText(msg.getTag());
     }
   }
+
 }
