@@ -1,4 +1,4 @@
-# Common_Android
+# Retrofit2
 ## 一、使用
 #### 1、添加依赖和配置
 * 根目录build.gradle文件添加如下配置：
@@ -263,5 +263,4 @@ ViewManagerUtils.getInstance().exitApp(context);
 <br>
 
 #### 4、 作者
-* 鲁宇峰   邮箱：466708987@qq.com
 * 王文彬   邮箱：wwb199055@126.com
