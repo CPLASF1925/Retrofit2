@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--字体大小-->
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <!--其他尺寸-->
+    <dimen name="size_1">1dp</dimen>
+    <dimen name="size_5">5dp</dimen>
+    <dimen name="size_7">7dp</dimen>
+    <dimen name="size_10">10dp</dimen>
+    <dimen name="size_15">15dp</dimen>
+    <dimen name="size_19">19dp</dimen>
+    <dimen name="size_50">50dp</dimen>
+</resources>
